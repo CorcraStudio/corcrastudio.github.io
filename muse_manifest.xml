@@ -1,0 +1,110 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="http://52.183.67.151" resolutions="1x,2x" timestamp="1483720394426">
+  <folder name="css">
+    <file name="site_global.css" crc="81811550"/>
+    <file name="master_a-master.css" crc="487586030" ref="index:corcraprops-rustic"/>
+    <file name="nomq_preview_master_a-master.css" crc="527364290" ref="index:corcraprops-rustic"/>
+    <file name="index.css" crc="260644474" ref="index"/>
+    <file name="nomq_index.css" crc="3988546431" ref="index"/>
+    <file name="corcraprops-rustic.css" crc="255572955" ref="corcraprops-rustic"/>
+    <file name="nomq_corcraprops-rustic.css" crc="127096866" ref="corcraprops-rustic"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:corcraprops-rustic"/>
+    <file name="museutils.js" crc="4148063285" ref="index:corcraprops-rustic"/>
+    <file name="whatinput.js" crc="86476730" ref="index:corcraprops-rustic"/>
+    <file name="museconfig.js" crc="4179431180" ref="index:corcraprops-rustic"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index:corcraprops-rustic"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:corcraprops-rustic"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index:corcraprops-rustic"/>
+    <file name="webpro.js" crc="3986320349" ref="index:corcraprops-rustic"/>
+    <file name="musewpdisclosure.js" crc="3865010892" ref="index:corcraprops-rustic"/>
+    <file name="jquery.scrolleffects.js" crc="3801019579" ref="index:corcraprops-rustic"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:corcraprops-rustic"/>
+    <file name="jquery.museresponsive.js" crc="3991890305" ref="index:corcraprops-rustic"/>
+    <file name="require.js" crc="4159430777" ref="index:corcraprops-rustic"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index:corcraprops-rustic"/>
+    <file name="arrowmenudown.png" crc="262559161" ref="index"/>
+    <file name="mike-norton-industrial-bricks-01.jpg" crc="480862353" ref="index"/>
+    <file name="image.jpg" crc="466341315" seo="true" ref="index"/>
+    <file name="image_2x.jpg" crc="4064284766" seo="true" ref="index"/>
+    <file name="mike-norton-industrial-bricks-012.jpg" crc="4060602568" ref="index"/>
+    <file name="mike-norton-industrial-bricks-01_2x.jpg" crc="480862353" ref="index"/>
+    <file name="mike-norton-industrial-bricks-01-u4177-fr.jpg" crc="303470904" ref="index"/>
+    <file name="mike-norton-industrial-bricks-01-u4177-fr_2x.jpg" crc="3909045788" ref="index"/>
+    <file name="mike-norton-industrial-bricks-01-u4177-fr2.jpg" crc="4043889413" ref="index"/>
+    <file name="mike-norton-industrial-bricks-01-u4177-fr_2x2.jpg" crc="3986624302" ref="index"/>
+    <file name="mike-norton-industrial-bricks-01-u4177-fr3.jpg" crc="4115430685" ref="index"/>
+    <file name="mike-norton-industrial-bricks-01-u4177-fr_2x3.jpg" crc="317653435" ref="index"/>
+    <file name="20170102161452_1.jpg" crc="4007022363" ref="corcraprops-rustic"/>
+    <file name="u8110-4.png" crc="4233998367" ref="corcraprops-rustic"/>
+    <file name="u8110-4_2x.png" crc="32049489" ref="corcraprops-rustic"/>
+    <file name="unity_logo_bw.png" crc="228785107" seo="true" ref="corcraprops-rustic"/>
+    <file name="unity_logo_bw_2x.png" crc="422926822" seo="true" ref="corcraprops-rustic"/>
+    <file name="ue4_logo_bw.png" crc="4198697595" seo="true" ref="corcraprops-rustic"/>
+    <file name="ue4_logo_bw_2x.png" crc="246829227" seo="true" ref="corcraprops-rustic"/>
+    <file name="20170102161821_1.jpg" crc="4224342611" ref="corcraprops-rustic"/>
+    <file name="20170102161556_1-crop-u13466.jpg" crc="395506438" ref="corcraprops-rustic"/>
+    <file name="20170102161745_1-crop-u13482.jpg" crc="387638774" ref="corcraprops-rustic"/>
+    <file name="20170102161745_1-crop-u13482_2x.jpg" crc="424060539" ref="corcraprops-rustic"/>
+    <file name="20170102161716_1.jpg" crc="76631227" ref="corcraprops-rustic"/>
+    <file name="unity_logo_bw102x94.png" crc="3777152743" seo="true" ref="corcraprops-rustic"/>
+    <file name="unity_logo_bw102x94_2x.png" crc="431767904" seo="true" ref="corcraprops-rustic"/>
+    <file name="ue4_logo_bw102x105.png" crc="3873144418" seo="true" ref="corcraprops-rustic"/>
+    <file name="ue4_logo_bw102x105_2x.png" crc="3840171887" seo="true" ref="corcraprops-rustic"/>
+    <file name="u8110-42.png" crc="3782174026" ref="corcraprops-rustic"/>
+    <file name="u8110-4_2x2.png" crc="4191868738" ref="corcraprops-rustic"/>
+    <file name="20170102161556_1-crop-u134662.jpg" crc="395506438" ref="corcraprops-rustic"/>
+    <file name="20170102161745_1-crop-u134822.jpg" crc="387638774" ref="corcraprops-rustic"/>
+    <file name="20170102161745_1-crop-u13482_2x2.jpg" crc="424060539" ref="corcraprops-rustic"/>
+    <file name="unity_logo_bw100x92.png" crc="234081495" seo="true" ref="corcraprops-rustic"/>
+    <file name="unity_logo_bw100x92_2x.png" crc="109087950" seo="true" ref="corcraprops-rustic"/>
+    <file name="ue4_logo_bw99x103.png" crc="500248180" seo="true" ref="corcraprops-rustic"/>
+    <file name="ue4_logo_bw99x103_2x.png" crc="4273251512" seo="true" ref="corcraprops-rustic"/>
+    <file name="u8110-43.png" crc="4268699204" ref="corcraprops-rustic"/>
+    <file name="u8110-4_2x3.png" crc="39282121" ref="corcraprops-rustic"/>
+    <file name="20170102161556_1-crop-u134663.jpg" crc="36602776" ref="corcraprops-rustic"/>
+    <file name="20170102161745_1-crop-u134823.jpg" crc="387638774" ref="corcraprops-rustic"/>
+    <file name="20170102161745_1-crop-u13482_2x3.jpg" crc="424060539" ref="corcraprops-rustic"/>
+    <file name="u8110-44.png" crc="4000964178" ref="corcraprops-rustic"/>
+    <file name="u8110-4_2x4.png" crc="4178161925" ref="corcraprops-rustic"/>
+    <file name="20170102161821_1-u9684-fr.jpg" crc="3852912765" ref="corcraprops-rustic"/>
+    <file name="20170102161821_1-u9684-fr_2x.jpg" crc="77783731" ref="corcraprops-rustic"/>
+    <file name="20170102161556_1-crop-u134664.jpg" crc="181883881" ref="corcraprops-rustic"/>
+    <file name="20170102161745_1-crop-u134824.jpg" crc="196806588" ref="corcraprops-rustic"/>
+    <file name="20170102161745_1-crop-u13482_2x4.jpg" crc="345074377" ref="corcraprops-rustic"/>
+    <file name="20170102161716_1-u10259-fr.jpg" crc="461019346" ref="corcraprops-rustic"/>
+    <file name="20170102161716_1-u10259-fr_2x.jpg" crc="318938317" ref="corcraprops-rustic"/>
+    <file name="20170102161452_12.jpg" crc="3924322440" ref="corcraprops-rustic"/>
+    <file name="20170102161452_1_2x.jpg" crc="4007022363" ref="corcraprops-rustic"/>
+    <file name="u8110-45.png" crc="286301415" ref="corcraprops-rustic"/>
+    <file name="u8110-4_2x5.png" crc="4114629652" ref="corcraprops-rustic"/>
+    <file name="20170102161821_1-u9684-fr2.jpg" crc="10008130" ref="corcraprops-rustic"/>
+    <file name="20170102161821_1-u9684-fr_2x2.jpg" crc="3916559690" ref="corcraprops-rustic"/>
+    <file name="20170102161556_1-crop-u134665.jpg" crc="3764156282" ref="corcraprops-rustic"/>
+    <file name="20170102161745_1559x315.jpg" crc="4242944454" seo="true" ref="corcraprops-rustic"/>
+    <file name="20170102161745_1559x315_2x.jpg" crc="390733859" seo="true" ref="corcraprops-rustic"/>
+    <file name="20170102161716_1-u10259-fr2.jpg" crc="4201546236" ref="corcraprops-rustic"/>
+    <file name="20170102161716_1-u10259-fr_2x2.jpg" crc="3972240709" ref="corcraprops-rustic"/>
+    <file name="u8110-46.png" crc="121974401" ref="corcraprops-rustic"/>
+    <file name="u8110-4_2x6.png" crc="19957267" ref="corcraprops-rustic"/>
+    <file name="20170102161821_1-u9684-fr3.jpg" crc="3869261165" ref="corcraprops-rustic"/>
+    <file name="20170102161821_1-u9684-fr_2x3.jpg" crc="4127626223" ref="corcraprops-rustic"/>
+    <file name="20170102161556_1-crop-u134666.jpg" crc="3860891289" ref="corcraprops-rustic"/>
+    <file name="20170102161745_1-crop-u134825.jpg" crc="88870157" ref="corcraprops-rustic"/>
+    <file name="20170102161745_1-crop-u13482_2x5.jpg" crc="193618359" ref="corcraprops-rustic"/>
+    <file name="20170102161716_1-u10259-fr3.jpg" crc="362889493" ref="corcraprops-rustic"/>
+    <file name="20170102161716_1-u10259-fr_2x3.jpg" crc="3949502717" ref="corcraprops-rustic"/>
+    <file name="20170102161452_1-u7945-fr.jpg" crc="78164095" ref="corcraprops-rustic"/>
+    <file name="20170102161452_1-u7945-fr_2x.jpg" crc="58612254" ref="corcraprops-rustic"/>
+    <file name="u8110-47.png" crc="304497408" ref="corcraprops-rustic"/>
+    <file name="u8110-4_2x7.png" crc="4104822008" ref="corcraprops-rustic"/>
+    <file name="20170102161821_1-u9684-fr4.jpg" crc="3772154205" ref="corcraprops-rustic"/>
+    <file name="20170102161821_1-u9684-fr_2x4.jpg" crc="236403071" ref="corcraprops-rustic"/>
+    <file name="20170102161716_1-u10259-fr4.jpg" crc="267140955" ref="corcraprops-rustic"/>
+    <file name="20170102161716_1-u10259-fr_2x4.jpg" crc="169082119" ref="corcraprops-rustic"/>
+  </folder>
+  <file name="index.html" crc="3871032" seo="true" mt="1483720328220" redirect="true"/>
+  <file name="corcraprops-rustic.html" crc="4257593480" seo="true" mt="1483720328220" redirect="true"/>
+</manifest>
